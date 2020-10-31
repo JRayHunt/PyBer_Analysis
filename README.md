@@ -18,4 +18,4 @@ If this represents seasonal trends then we can make three recommendations based 
 1. Increaese the number of drivers in suburban areas in January through February when ridership in suburban areas increases, but decreases in urban cities.
 2. Increase drivers for all city types at the end of February to handle increased demand.
 3. Shift drivers from suburban cities to rural cities in April when demand increases in rural cities.
-![Pyber_fare_summary.PNG](/analysis/Pyber_fare_summary.PNG]
+![Pyber_fare_summary.png](/analysis/Pyber_fare_summary.png]
